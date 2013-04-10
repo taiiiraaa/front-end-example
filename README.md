@@ -1,7 +1,7 @@
 CSS
 
-Class names, use hypen, camelCase etc or more structured? ref1 BEM Independent CSS
-grid-cell, gridCell ...
+Class names, use hypen ref1 BEM Independent CSS
+grid-cell
 
 
 Class names, content-derived, content-independent or mixture of two? 
